@@ -15,3 +15,5 @@ To set-up GPU with tensorflow:
 
 1: nvidia-smi
 2: pip install tensorflow-gpu
+
+** Check requirements of tensorflow and other libraries(Supported python versions, pip versions,etc)
