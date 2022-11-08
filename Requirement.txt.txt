@@ -1,0 +1,17 @@
+Python version: 3.11.0
+Pip version: 22.3.1
+
+Requirements:
+
+1: cv2- "pip install cv2" or "pip install opencv-pyhton"
+2: pandas- "pip install pandas"
+3: joblib- "pip install joblib"
+4: matplotlib- "pip install matplotlib"
+5: sklearn or scikit-learn: "pip install sklearn" or "pip install scikit-learn"
+6: tensorflow: "pip install tensorflow" or "pip install https://storage.googleapis.com/tensorflow/mac/cpu/tensorflow-1.8.0-py3-none-any.whl"
+7: keras: "pip install keras"
+
+To set-up GPU with tensorflow:
+
+1: nvidia-smi
+2: pip install tensorflow-gpu
